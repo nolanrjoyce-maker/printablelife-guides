@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nolanrjoyce-maker.github.io/printablelife-guides/sitemap.xml
